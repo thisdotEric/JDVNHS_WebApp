@@ -1,6 +1,4 @@
-# Jose De Villa National High School
-
-# WEB Application
+# Jose De Villa National High School WEB App
 
 Developers:
 **Rolly Cedron**, 
