@@ -3,6 +3,6 @@
 # WEB Application
 
 Developers:
-**Rolly Cedron**
-**Rafael Angelo Piad**
+**Rolly Cedron**, 
+**Rafael Angelo Piad**, 
 **John Eric Siguenza**
