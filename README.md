@@ -1,9 +1,6 @@
-# Jose De Villa National High School
-
-# WEB Application
+# Jose De Villa National High School WEB App
 
 Developers:
-
-1. **Rolly Cedron**
-2. **Rafael Angelo Piad**
-3. **John Eric Siguenza**
+**Rolly Cedron**,
+**Rafael Angelo Piad**,
+**John Eric Siguenza**
